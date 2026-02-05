@@ -22,7 +22,7 @@ class AboutPageView(TemplateView):
             "title": "About us - Online Store",
             "subtitle": "About us",
             "description": "This is an about page ...",
-            "author": "Developed by: Your Name",
+            "author": "Developed by: Santiago Arboleda",
         })
         return context
 
